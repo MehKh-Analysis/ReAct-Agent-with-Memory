@@ -11,6 +11,8 @@
 Dataset:
 The agent uses a dataset of 12,000+ courses (27 features each), including fields such as course number, name, registration status, and description.
 
+[course-catalog data set](https://drive.google.com/file/d/1sfmf_pnHCYM8kq7QfpFrktvENvsi7Xvw/view?usp=sharing)
+
 Tool:
 A custom tool called find_course retrieves course details when a student asks something like:
 
